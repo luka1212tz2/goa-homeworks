@@ -83,7 +83,12 @@ left(90)
 forward(50)
 
 
+penup()
+goto(80,-100)
+pendown()
 
+right(135)
+forward(50)
 
 
 
